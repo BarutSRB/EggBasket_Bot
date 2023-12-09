@@ -9,7 +9,7 @@
     "1096315012341039184",
     "1168362749772963921"
   ],
-  "mongoURI": "mongodb+srv://barut:RP56joMGuPDfkLG7@cluster0.gxsr9rx.mongodb.net/eggbasket?retryWrites=true&w=majority",
+  "mongoURI": "/eggbasket?retryWrites=true&w=majority",
   "raidsArray": [
     "Hellcali",
     "Helltan",
